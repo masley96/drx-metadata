@@ -1,0 +1,10 @@
+{
+  "name": "Dargyx",
+  "symbol": "DRX",
+  "description": "Dargyx — мем-токен в экосистеме TON, символ дерзости, силы и движения.",
+  "decimals": 9,
+  "image": "https://.../logo.png",
+  "social": {
+    "telegram": "https://t.me/dargyx"
+  }
+}
